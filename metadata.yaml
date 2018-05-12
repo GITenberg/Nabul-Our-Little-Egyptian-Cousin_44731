@@ -1,0 +1,32 @@
+_repo: Nabul-Our-Little-Egyptian-Cousin_44731
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44731-h/images/cover.jpg
+creator:
+  author:
+    agent_name: McManus, Blanche
+    aliases:
+    - MacManus, Blanche
+    - Mansfield, Blanche McManus
+    birthdate: 1869
+    deathdate: 1935
+    gutenberg_agent_id: '31610'
+    url: http://www.gutenberg.org/2009/agents/31610
+description: Illustrated by the author.
+gutenberg_issued: '2014-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44731'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Egypt -- Juvenile fiction'
+- !lcsh 'Egypt -- Description and travel -- Juvenile fiction'
+- !lcsh 'Pyramids -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Egypt -- Social life and customs -- Juvenile fiction'
+title: Nabul, Our Little Egyptian Cousin
+url: http://www.gutenberg.org/ebooks/44731
